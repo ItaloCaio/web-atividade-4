@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc8c4171-d489-4ade-b2a0-5912d375f1fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hqDHkCxgKiRDaRPaHiuAitFpIM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.eadsimple.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\public\js" />
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\templates\views" />
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\public\js\controllers" />
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources" />
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\public\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.eadsimple.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\templates\views" />
+      <recent name="E:\Universidade\8º Período\EAD\ead-project\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationStart">
+    <configuration name="ApplicationStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_231\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.web.ApplicationStart" />
+      <module name="ead-project-develop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.eadsimple.PasswordEncoder" />
+      <module name="eadsimple" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="web-atividade-4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="web-atividade-4" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eadsimple" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.eadsimple.ApplicationStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationStart" />
+        <item itemvalue="Application.PasswordEncoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc8c4171-d489-4ade-b2a0-5912d375f1fb" name="Default Changelist" comment="" />
+      <created>1557402024794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557402024794</updated>
+      <workItem from="1557402025971" duration="2535000" />
+      <workItem from="1557576781603" duration="10722000" />
+      <workItem from="1557595916569" duration="4958000" />
+      <workItem from="1557687239961" duration="2656000" />
+      <workItem from="1557748815618" duration="9139000" />
+      <workItem from="1557929611114" duration="5790000" />
+      <workItem from="1558001893897" duration="3406000" />
+      <workItem from="1558272449778" duration="6989000" />
+      <workItem from="1558357955543" duration="6080000" />
+      <workItem from="1558373905119" duration="1157000" />
+      <workItem from="1558375200346" duration="520000" />
+      <workItem from="1558438397249" duration="8718000" />
+      <workItem from="1558618549767" duration="4664000" />
+      <workItem from="1558722024696" duration="4370000" />
+      <workItem from="1558781988002" duration="9152000" />
+      <workItem from="1558793177810" duration="1629000" />
+      <workItem from="1558795989141" duration="4861000" />
+      <workItem from="1558807507333" duration="1490000" />
+      <workItem from="1558892346306" duration="8571000" />
+      <workItem from="1558925413210" duration="363000" />
+      <workItem from="1558949944303" duration="1993000" />
+      <workItem from="1558967309646" duration="5319000" />
+      <workItem from="1559409274122" duration="7063000" />
+      <workItem from="1559483521326" duration="8831000" />
+      <workItem from="1560102212611" duration="1222000" />
+      <workItem from="1560257166499" duration="6406000" />
+      <workItem from="1560866422808" duration="1160000" />
+      <workItem from="1560967747894" duration="2143000" />
+      <workItem from="1561418020966" duration="6373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138747000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="11" width="579" height="658" key="#ApplicationStart" timestamp="1600734047894">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="11" width="579" height="658" key="#ApplicationStart/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734047894" />
+    <state x="360" y="0" width="575" height="680" key="#PasswordEncoder" timestamp="1600733228183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#PasswordEncoder/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600733228183" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1600730316020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600730316020" />
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600734026430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734026430" />
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600731541045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600731541045" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600730513440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600730513440" />
+    <state width="1237" height="359" key="GridCell.Tab.0.bottom" timestamp="1600734891641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="359" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734891641" />
+    <state width="1237" height="359" key="GridCell.Tab.0.center" timestamp="1600734891641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="359" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734891641" />
+    <state width="1237" height="359" key="GridCell.Tab.0.left" timestamp="1600734891641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="359" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734891641" />
+    <state width="1237" height="359" key="GridCell.Tab.0.right" timestamp="1600734891641">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="359" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600734891641" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1600732443212">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600732443212" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1600733474567">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600733474567" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1600733986552">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1600733986552" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
